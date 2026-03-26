@@ -1,0 +1,30 @@
+ALT+Z para Word Wrap
+
+CONTROL+ALT y FLECHA es como que hace el cursor más grande para abajo
+
+lower camel case
+
+en la terminal por primera vezse pone yarn
+yarn dev cada que se quiera ejecutar
+
+
+Una función anónima autoinvocada (conocida en inglés como IIFE: Immediately Invoked Function Expression) es una función que se define y se ejecuta en el mismo instante en que el motor de JavaScript la lee.
+Se reconoce por su estructura de "paréntesis dobles": unos que envuelven la función y otros al final que la "llaman" o ejecutan.
+
+fruitNames es lo mejor en un array, uno tiene que saber qué tipo de dato es y qué hay adentro
+
+ARREGLOS
+is can have
+isOpen, canWrite, hasFruit, isActive, hasValues, isEmpty 
+  
+
+FUNCIONES
+verbo seguido de un sustantivo  
+
+no se recomiendan más de 3 parámetros por función (parámetros y argumentos)
+
+arriba en el visual studio code, en el navegador se puede poner >ascending para ordenar lineas alfabeticamente
+
+se recomienda menos de 20 líneas de código por funciones y porfa evitar uso de else en funciones, priorizar uso de la condicional ternaria.
+
+diferencia entre let y const
