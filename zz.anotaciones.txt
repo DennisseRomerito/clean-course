@@ -2,14 +2,24 @@ ALT+Z para Word Wrap
 
 CONTROL+ALT y FLECHA es como que hace el cursor más grande para abajo
 
+CONTROL SHIFT J para ir a consola de chrome
+
+shift alt FLECHA FLECHA para copiar una línea de código arriba o abajo
+
 lower camel case
 
-en la terminal por primera vezse pone yarn
+en la terminal EN CMD por primera vezse pone yarn
 yarn dev cada que se quiera ejecutar
 
+transpilación es convertir código de un lenguaje de programación a otro
 
 Una función anónima autoinvocada (conocida en inglés como IIFE: Immediately Invoked Function Expression) es una función que se define y se ejecuta en el mismo instante en que el motor de JavaScript la lee.
 Se reconoce por su estructura de "paréntesis dobles": unos que envuelven la función y otros al final que la "llaman" o ejecutan.
+//función anónima auto invocada
+// (()=> {
+        CÓDIGO
+// })();
+
 
 fruitNames es lo mejor en un array, uno tiene que saber qué tipo de dato es y qué hay adentro
 
@@ -28,3 +38,20 @@ arriba en el visual studio code, en el navegador se puede poner >ascending para 
 se recomienda menos de 20 líneas de código por funciones y porfa evitar uso de else en funciones, priorizar uso de la condicional ternaria.
 
 diferencia entre let y const
+
+
+DRY: DON'T REPEAT YOURSELF
+evita duplicidad de código
+
+dato adicional: snippets son como atajos que configuras acorde a cualquier nombre, tipo puedes configurar que al escribir clg te de la opción de poner inmediatamente una función que hayas configurado anteriormente
+
+
+this hace referencia a la instancia de la clase
+
+
+
+
+
+
+ESTUDIAR CUALQUIER TIPO DE return `${ this.name }`
+ME REFIERO A MANERAS DE IMPRIMIR TEXTO Y VARIABLES
